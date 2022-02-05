@@ -15,7 +15,6 @@ class Solution{
                 N/=26;
             }
         }
-
         return ans;
     }
 };
